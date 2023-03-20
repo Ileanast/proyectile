@@ -1,0 +1,100 @@
+
+*{
+  box-sizing: border-box;
+}
+header{
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  font-size: xx-large;
+  text-align: left;
+  float: right;
+  width: 60%;
+  }
+
+  #diseñadora{
+    color: gray;
+    font-size: xx-large;
+}
+
+
+div.imagen {
+  border: 10px solid rosybrown;
+  background-color: beige;
+  width: 100%;
+  
+}
+
+
+img {
+  border: 5px solid rosybrown;
+  vertical-align: middle; 
+  width: 30%;
+  
+  }
+
+div.reset {
+  clear: both;
+}
+
+#titus {
+  background-color: beige;
+  font-size:x-large;
+  }
+
+div.ika {
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  font-size: small ;
+  text-align: left;
+  float: right;
+  width: 60%;
+ }
+
+#primero{
+  text-decoration:underline;
+  font-size: larger;
+}
+
+#segundo{
+  font-size: larger;
+}
+
+div.pewma {
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  font-size: small ;
+  text-align: left;
+  float: right;
+  width: 60%;
+}
+
+div.formacion{
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  font-size: small ;
+  text-align: left;
+  float: right;
+  width: 60%;
+}
+
+div.datos {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: small ;
+  text-align: left;
+  float: left;
+  width: 30%;
+  height: 100%;
+  background-color: rosybrown;
+  border: 10px solid rosybrown;
+}
+button{
+  color: black;
+  background-color: beige;
+  font-family: 'Roboto', sans-serif;
+  border: none;
+}
+
+
+
+
